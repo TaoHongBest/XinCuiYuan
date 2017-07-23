@@ -1,2 +1,2 @@
 # XinCuiYuan
-For XinCuiYuan (New Student Forum of University of Petroleum (East China))
+XinCuiYuan is a new student forum of University of Petroleum (East China)
